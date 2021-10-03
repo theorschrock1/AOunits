@@ -1,7 +1,7 @@
 Package: AOunits
 Type: Package
 Title: Measurement Units for AO
-Version: 0.0.0.9002
+Version: 0.0.0.9003
 Author: Theo Schrock
 Maintainer: <theorschrock@gmail.com>
 Description: Simplifying units.
@@ -16,9 +16,10 @@ Imports:
     rlang,
     R6,
     checkmate,
-    sUtils,
-    exprTools,
     xml2
+Remotes:
+    theorschrock1/sUtils,
+    theorschrock1/exprTools
 URL: https://github.com/theorschrock1/AOunits
 BugReports: https://github.com/theorschrock1/AOunits/issues
 Suggests: 
