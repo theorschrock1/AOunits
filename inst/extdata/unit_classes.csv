@@ -1,0 +1,25 @@
+Formula,unit
+kg,mass
+m/s,speed
+C/V,capacitance
+J/s,power
+s,duration
+J,energy
+min/hr,time frequency
+m,distance
+cd,luminous intensity
+mole,chemical mass
+kg*m/s^2,force
+N/m^2,pressure
+Wb/A,inductance
+lm/m^2,illumination
+mol/s,catalytic activity
+J/kg,radiation
+m^3,volume
+m^2,area
+cm/s^2,acceleration
+A,electric current
+K,temperature
+kg/m,mass density
+kg/m^3,density
+dollar,value
