@@ -1,7 +1,7 @@
 Package: AOunits
 Type: Package
 Title: Measurement Units for AO
-Version: 0.0.0.9003
+Version: 0.0.0.9004
 Author: Theo Schrock
 Maintainer: <theorschrock@gmail.com>
 Description: Simplifying units.
